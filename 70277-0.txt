@@ -15,6 +15,7 @@ Author: Murray Leinster
 Illustrator: van Dongen
 
 Release Date: March 13, 2023 [eBook #70277]
+Last Updated: May 9, 2023
 
 Language: English
 
@@ -1303,7 +1304,7 @@ remorsefully:
 mine is the worse. You don't have to play dirty tricks on me, and I've
 had to, on you!"
 
-Murgatroyd said "_Chee!_" and whimpered, Calhoun laid him gently on a
+Murgatroyd said "_Chee!_" and whimpered. Calhoun laid him gently on a
 bed of leaves which was not occupied by a murdered man.
 
 "Lie still!" he commanded. "Exercise is bad for you!"
